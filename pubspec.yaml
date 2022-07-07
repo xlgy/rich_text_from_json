@@ -1,6 +1,6 @@
 name: lxy_rich_text_from_json
 description: json配置动态富文本
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/xlgy/rich_text_from_json.git
 
 environment:
